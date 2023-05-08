@@ -1,0 +1,30 @@
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.csproj.AssemblyReference.cache
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.AssemblyInfoInputs.cache
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.AssemblyInfo.cs
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.csproj.CoreCompileInputs.cache
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.exe
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.deps.json
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.runtimeconfig.json
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.dll
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.pdb
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.dll
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\refint\Sem004_C#-DZ.dll
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.pdb
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.genruntimeconfig.cache
+C:\Users\mresv\OneDrive\Рабочий стол\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\ref\Sem004_C#-DZ.dll
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.exe
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.deps.json
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.runtimeconfig.json
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.dll
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\bin\Debug\net7.0\Sem004_C#-DZ.pdb
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.csproj.AssemblyReference.cache
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.AssemblyInfoInputs.cache
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.AssemblyInfo.cs
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.csproj.CoreCompileInputs.cache
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.dll
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\refint\Sem004_C#-DZ.dll
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.pdb
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\Sem004_C#-DZ.genruntimeconfig.cache
+C:\Users\mresv\acerNAS\SYNC_DEVICES\Windows\Documents\GB\C# - Seminar\Sem004_C#-DZ\obj\Debug\net7.0\ref\Sem004_C#-DZ.dll

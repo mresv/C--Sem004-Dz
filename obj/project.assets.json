@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mresv\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mresv\\acerNAS\\SYNC_DEVICES\\Windows\\Documents\\GB\\C# - Seminar\\Sem004_C#-DZ\\Sem004_C#-DZ.csproj",
+      "projectName": "Sem004_C#-DZ",
+      "projectPath": "C:\\Users\\mresv\\acerNAS\\SYNC_DEVICES\\Windows\\Documents\\GB\\C# - Seminar\\Sem004_C#-DZ\\Sem004_C#-DZ.csproj",
+      "packagesPath": "C:\\Users\\mresv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mresv\\acerNAS\\SYNC_DEVICES\\Windows\\Documents\\GB\\C# - Seminar\\Sem004_C#-DZ\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mresv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
